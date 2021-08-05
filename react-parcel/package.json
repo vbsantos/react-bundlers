@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "npx parcel-bundler build index.html",
     "start": "npx parcel-bundler index.html"
   },
   "author": "",
