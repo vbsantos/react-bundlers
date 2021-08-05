@@ -10,4 +10,4 @@ Lots of config files and dependencies
 
 ## Parcel
 
-No config file nor dependency
+No config files nor dependencies
