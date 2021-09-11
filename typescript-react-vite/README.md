@@ -1,7 +1,7 @@
-# React with Webpack
+# React with Vite and Typescript
 
 ```bash
-npm install react react-dom
+npm init vite
 ```
 
 ```bash
