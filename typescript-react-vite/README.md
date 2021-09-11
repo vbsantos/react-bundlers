@@ -17,5 +17,5 @@ npm run dev
 ---
 
 ```bash
-npm run build && cd dist/ && npx serve
+npm run serve
 ```
