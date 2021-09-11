@@ -1,7 +1,7 @@
 # React with Webpack
 
 ```bash
-npm install react react-dom
+npm init vite
 ```
 
 ```bash
