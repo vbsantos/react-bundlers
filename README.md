@@ -17,7 +17,7 @@
 
 ## Vite
 
-- Needs a global dependency. Has a CLI and doesn't need config files nor local dependencies
+- Needs a global dependency. Has a CLI and doesn't need to create config files nor install local dependencies, it's all automatic.
 - Bundle size 149Kb
 
 ## Snowpack

@@ -7,5 +7,5 @@ npm run start
 ---
 
 ```bash
-npm run build && cd dist/ && npx serve
+npm run build && npx serve -s build
 ```
